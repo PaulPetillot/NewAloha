@@ -1,0 +1,20 @@
+@mixin body-font {
+    font-family: $body-font-family;
+    font-weight: $medium-font-weight;
+    font-style: $normal-font-style;
+}
+@mixin headings-font {
+    font-family: $headings-font-family;
+    font-weight: $normal-font-weight;
+    font-style: $normal-font-style;
+}
+@mixin desktop {
+    @media (min-width: $desktop-width) {
+      @content;
+    }
+}
+@mixin tablet {
+    @media (min-width: $tablet-width) {
+      @content;
+    }
+}
