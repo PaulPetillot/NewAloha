@@ -1,6 +1,5 @@
 @mixin body-font {
     font-family: $body-font-family;
-    font-weight: $medium-font-weight;
     font-style: $normal-font-style;
 }
 @mixin headings-font {
