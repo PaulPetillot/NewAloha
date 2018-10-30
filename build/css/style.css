@@ -320,6 +320,8 @@ html {
   grid-template-rows: 1fr 1fr 1fr 1fr;
   overflow: hidden;
   grid-gap: 8px; }
+  .category-container :hover {
+    color: #D4D4D4; }
   @media (min-width: 600px) {
     .category-container {
       grid-template-columns: 50% 50%;
@@ -689,7 +691,7 @@ html {
   @media (min-width: 1240px) {
     .adress {
       line-height: 2px;
-      margin-left: 35px; } }
+      margin-left: 45px; } }
 
 .link-email {
   color: white; }
