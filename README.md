@@ -14,6 +14,6 @@ This website is build with HTML5, CSS3(flex, media queries, flickity), JavaScrip
 https://github.com/PaulPetillot
 
 
-Link to my website : https://paulpetillot.github.io/aloha/
+Link to my website : https://paulpetillot.github.io/NewAloha/
 
 
