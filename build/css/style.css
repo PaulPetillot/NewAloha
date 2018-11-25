@@ -219,7 +219,7 @@ html {
       background-size: cover, 25%, cover; } }
   @media (min-width: 1240px) {
     .banner {
-      grid-template-rows: 570px;
+      grid-template-rows: 585px;
       background-position: center top, center 60px, center top;
       background-size: cover, 18%, cover; } }
   .banner .text-banner {
