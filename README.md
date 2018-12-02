@@ -8,15 +8,11 @@ Aloha is a responsive website, who uses CSS, HTML and JavaScript
 HTML5 | SASS | Media Queries | JQuery | Git | JavaScript |
 
 ----
-## JavaScript  features
-JQUERY and Ajax | API  | Event handlers | ES6 | OOP |
-
-----
 ## Personal Learnings
 
-1. JQuery Events, DOM, Methods, Ajax and oriented object programming
-2. JS 
-3. SCSS with Grid
+1. CSS and MediaQueries
+2. HTML
+3. Javascript
 
 ----
 ## Link to the files on Github
