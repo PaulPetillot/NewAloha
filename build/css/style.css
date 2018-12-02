@@ -585,6 +585,8 @@ html {
   font-size: 14px;
   font-weight: 300;
   margin-left: 20px; }
+  .email:focus {
+    outline: none; }
 
 .footer-container {
   font-family: 'Playfair Display';
@@ -629,7 +631,8 @@ html {
     .social-media {
       margin-right: 50px; } }
   .social-media a {
-    text-decoration: none; }
+    text-decoration: none;
+    color: white; }
   .social-media li {
     font-family: 'Raleway';
     font-weight: 600;
@@ -670,10 +673,10 @@ html {
       margin-left: 45px;
       margin-top: 10px; } }
 
-.social-media p {
+.social-media a {
   display: none; }
   @media (min-width: 600px) {
-    .social-media p {
+    .social-media a {
       display: block; } }
 
 .adress {

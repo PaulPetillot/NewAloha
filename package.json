@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "gulp-eslint": "^5.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-terser": "^1.1.5",
     "jquery": "^3.3.1",
     "node-sass": "^4.9.4"
   },

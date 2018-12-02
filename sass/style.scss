@@ -550,6 +550,9 @@ html {
     font-size: 14px;
     font-weight: 300;
     margin-left: 20px;
+    &:focus{
+        outline: none;
+    }
 }
 
 .footer-container {
@@ -593,6 +596,7 @@ html {
 
     a {
         text-decoration: none;
+        color: white;
     }
 
     li {
@@ -632,7 +636,7 @@ html {
     }
 }
 
-.social-media p {
+.social-media a {
     display: none;
 
     @include tablet {

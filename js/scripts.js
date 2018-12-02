@@ -1,7 +1,7 @@
 $(function () {
     $('header nav a')
       .click(function(event) {
-      var target = $(this.hash);
+      let target = $(this.hash);
       event.preventDefault();
       $('html, body').animate({
         scrollTop: target.offset().top
@@ -9,11 +9,11 @@ $(function () {
     });
     $('#newsletter').on('submit', 'form', function(event){
       event.preventDefault();
-      var $email= $('#email');
+      const $email= $('#email');
       if ($email.val().length!==0) {
-        alert('Thanks you for subscribing !');
+        alert('Thanks you for subscribing !'); // eslint-disable-line
       } else {
-        alert('Please enter a valid email !');
+        alert('Please enter a valid email !');// eslint-disable-line
       }
   });
   
