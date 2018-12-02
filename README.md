@@ -1,11 +1,43 @@
-# Project Title and goal
+# Project: Aloha
+----
+## Goals of the site
+Aloha is a responsive website, who uses CSS, HTML and JavaScript
 
-Aloha is a responsive website, build for RED Academy
+----
+## Technology used
+HTML5 | SASS | Media Queries | JQuery | Git | JavaScript |
+
+----
+## JavaScript  features
+JQUERY and Ajax | API  | Event handlers | ES6 | OOP |
+
+----
+## Personal Learnings
+
+1. JQuery Events, DOM, Methods, Ajax and oriented object programming
+2. JS 
+3. SCSS with Grid
+
+----
+## Link to the files on Github
+* **[ALOHA](https://paulpetillot.github.io/NewAloha/)
+----
+## Device Screenshots
+**Desktop**
+---- 
+
+<img src="./assets/images/desktop-aloha.png">
 
 
-## Built With
+**Tablet**
+----
+<img src="./assets/images/tablet-aloha.png">
 
-This website is build with HTML5, CSS3(flex, media queries, flickity), JavaScript, JQuery. I learned these languages with this website.
+**Mobile**
+----
+<img src="./assets/images/mobile-aloha.png">
+
+----
 
 ## Author
 
@@ -14,6 +46,5 @@ This website is build with HTML5, CSS3(flex, media queries, flickity), JavaScrip
 https://github.com/PaulPetillot
 
 
-Link to my website : https://paulpetillot.github.io/NewAloha/
 
 
